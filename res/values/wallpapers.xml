@@ -17,43 +17,16 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_atrix_desire</item>
-        <item>wallpaper_atrix_wall_blue_3d</item>
-        <item>wallpaper_aurora_blue</item>
-        <item>wallpaper_sgs3_blue_bliss</item>
-        <item>wallpaper_orange_bliss_2</item>
-        <item>wallpaper_motion_galaxys_2</item>
-        <item>wallpaper_nexus_blue</item>
-        <item>wallpaper_speedlight_sgs</item>
-        <item>wallpaper_stars_infinate</item>
-        <item>wallpaper_outofthebox</item>
-	    <item>wallpaper_atomic_aocp</item>
-	    <item>wallpaper_collective_42</item>
-		<item>wallpaper_collective_aocp</item>
-		<item>wallpaper_collective_aocp_1</item>
-		<item>wallpaper_collective_aocp_2</item>
- 	    <item>wallpaper_phasebeam_aocp</item>
-        <item>wallpaper_kepler_aocp</item>
-        <item>wallpaper_retro_stripes</item>
-        <item>wallpaper_annex_nexus_aurora</item>
-	    <item>wallpaper_revolution_by_jevay</item>
-		<item>wallpaper_wheat</item>
-        <item>wallpaper_prash_ohaimark</item>
-        <item>wallpaper_ashersimonds_cmpatternholodark</item>
-        <item>wallpaper_ashersimonds_cmpatternhololight</item>
-        <item>wallpaper_manup456_cid3d</item>
-		<item>wallpaper_fire_lizard</item>
-		<item>wallpaper_indigenous</item>
-        <item>wallpaper_nebkat_bokeh</item>
-        <item>wallpaper_beki1984_colorwave</item>
-        <item>wallpaper_eklipze_cheshireyellow</item>
-        <item>wallpaper_eklipze_notquitemono</item>
-        <item>wallpaper_eklipze_technicolorstripes</item>
-        <item>wallpaper_mathewhanley_earlycorn</item>
-        <item>wallpaper_mathewhanley_defensivebutterfly</item>
-        <item>wallpaper_michaelmedina_beachlogs</item>
-        <item>wallpaper_annex_nexus_aurora</item>
-        <item>wallpaper_tylerhodge_blueperfection</item>
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+        <item>wallpaper_05</item>
+        <item>wallpaper_06</item>
+        <item>wallpaper_07</item>
+        <item>wallpaper_08</item>
+        <item>wallpaper_09</item>
+        <item>wallpaper_10</item>
     </string-array>
 
     <string-array name="info" translatable="false">
